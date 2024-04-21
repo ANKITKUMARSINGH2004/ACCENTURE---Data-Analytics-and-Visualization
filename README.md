@@ -9,13 +9,19 @@ The Accenture Data Analytics and Visualization Virtual Internship is designed to
 * Project Objectives:
 
 The main objectives of the virtual internship are as follows:
-Gain practical experience in data analysis and visualization.
-Apply data cleaning and preparation techniques to ensure data quality.
-Utilize data analytics tools and techniques for exploratory data analysis.
-Develop meaningful visualizations and dashboards to effectively communicate insights.
-Provide actionable recommendations based on the data analysis to address the client's business challenges.
 
-This repository is organized as follows:
+1.Gain practical experience in data analysis and visualization.
+
+2.Apply data cleaning and preparation techniques to ensure data quality.
+
+3.Utilize data analytics tools and techniques for exploratory data analysis.
+
+4.Develop meaningful visualizations and dashboards to effectively communicate insights.
+
+5.Provide actionable recommendations based on the data analysis to address the client's business challenges.
+
+
+* This repository is organized as follows:
 1.Certificate of Completion_AnkitKumarSingh-Check out the simulation here: https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
 2. Final Clean Data done by me.
 
