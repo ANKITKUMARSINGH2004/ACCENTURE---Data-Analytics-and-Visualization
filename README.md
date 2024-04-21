@@ -1,12 +1,14 @@
-ACCENTURE-DATA-ANALYTICS-AND-VISUALIZATION-VIRTUAL-INTERNSHIP
+* ACCENTURE-DATA-ANALYTICS-AND-VISUALIZATION-VIRTUAL-INTERNSHIP
+
 This repository contains my solutions and project work for the Accenture Data Analytics and Visualization Virtual Internship offered by Forage. The virtual internship provides a hands-on learning experience in data analytics, allowing participants to gain practical skills and insights into the tasks and challenges faced by professionals at Accenture.
 
-About the Internship
+* About the Internship:
+
 The Accenture Data Analytics and Visualization Virtual Internship is designed to simulate a real-world data analytics project. Participants will work on a fictional client project, analyzing data and providing insights to drive business decisions. The internship offers a comprehensive learning journey, covering various aspects of data analytics, including data quality assessment, exploratory data analysis, data preparation, data visualization, and presentation of findings.
 
-Project Objectives
-The main objectives of the virtual internship are as follows:
+* Project Objectives:
 
+The main objectives of the virtual internship are as follows:
 Gain practical experience in data analysis and visualization.
 Apply data cleaning and preparation techniques to ensure data quality.
 Utilize data analytics tools and techniques for exploratory data analysis.
