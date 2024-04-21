@@ -22,8 +22,11 @@ The main objectives of the virtual internship are as follows:
 
 
 * This repository is organized as follows:
-1.Certificate of Completion_AnkitKumarSingh-Check out the simulation here: https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
-2. Final Clean Data done by me.
+1.Certificate of Completion_AnkitKumarSingh-https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb.
+  
+2.README.md: This file provides an overview of the internship and repository.
+
+3.Cleaned Data done by me and presented this excel sheet to client and stakeholders of Accenture. 
 
 I just completed Accenture North America's Data Analytics and Visualization on Forage. In the simulation I:
 * Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
